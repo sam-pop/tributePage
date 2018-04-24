@@ -1,0 +1,42 @@
+body {
+  color: white;
+}
+
+.body-container {
+  margin-top: 5%;
+  padding: 25px 45px 25px 45px;
+  background-color: black;
+  border-radius: 10px;
+}
+
+.raleway-font {
+  font-family: "Raleway", sans-serif;
+}
+
+.title {
+  font-size: 5em;
+  font-family: "Libre Barcode 128 Text", sans-serif;
+}
+
+.bottom {
+  color: black;
+}
+
+#main-pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+a {
+  color: silver;
+}
+
+a:hover {
+  color: gray;
+}
